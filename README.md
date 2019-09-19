@@ -64,3 +64,6 @@ In this case, since you are working over a four-month window, the first two mont
 - choose an appropriate evaluation metric which reflects this business goal
 - Finally, choose a model based on evaluation metric
 - Recommend strategies to manage customer churn
+
+# Data
+The data file size is huge and cannot be uploaded to the repository. Kindly find the data @ https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
